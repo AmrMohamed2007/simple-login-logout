@@ -1,3 +1,3 @@
 # simple-login-logout
 # this web for learn
-# thank you for al
+# thank you for all
